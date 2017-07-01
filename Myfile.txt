@@ -1,2 +1,3 @@
-Some text here and here.
 Master branch line here`
+Some text here and here that i will change.
+Adding a new line here.
