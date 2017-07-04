@@ -3,3 +3,5 @@ Some text here and here that i will change.
 Adding a new line here. 
 4th line from master branch  
 4th line from feature
+edits from 3rdbranch
+
