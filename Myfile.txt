@@ -1,2 +1,4 @@
 Some text here and here that i will change.
 Adding a new line here.
+3rd line from feature
+4th line from feature
