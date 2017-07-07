@@ -1,5 +1,6 @@
 change here
 Here are some changes to the second file from feature branch
+adding a line
 some more text here
 and here
 and here
