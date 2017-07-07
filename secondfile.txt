@@ -1,4 +1,4 @@
-change here
+change here something
 Here are some changes to the second file from feature branch
 some more text here
 and here
