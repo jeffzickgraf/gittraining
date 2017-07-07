@@ -3,7 +3,5 @@ Some text here and here that i will change.
 Adding a new line here. 
 4th line from master branch  
 4th line from feature
-Touching from master.
-edits from 3rdbranch
-continuing this file changeasdfs.
+Touching from mast
 
