@@ -2,7 +2,9 @@ Master branch line here`
 Some text here and here that i will change.
 Adding a new line here. 
 4th line from master branch  
+more more more.
 4th line from feature
 Touching from masadkfjt
 Adding some text here now
+My interior line.
 This is currently the last line.
